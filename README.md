@@ -30,7 +30,7 @@ Best Regards,
 **2. Develop SQL Queries** - In this part, I removed unnecessary columns that were not needed for data analysis and created new columns for relevant data, such as revenue and profit. <br>
 ![SQL Query](pictures/sql_query_bike_data.png)
 **3. Connect PowerBI to DB**  - To connect the database to PowerBI. Click **Get Data*, and choose **SQL Server Database*. THen input required information of the database. <br>
-![Connect SQL query to PowerBi]()
+![Connect SQL query to PowerBi](pictures/sql_to_powerbi.png)
 
 
 
