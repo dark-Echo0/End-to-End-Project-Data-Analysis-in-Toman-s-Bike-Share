@@ -26,7 +26,7 @@ Best Regards,
 
 ## Documentation of Data Analysis Workflow  ##
 **1. Create a Database** - using SQL server, I created a database called "bike_data".
-![Create Database]()
+![Create Database](pictures/Create)
 
 
 
