@@ -25,13 +25,31 @@ Best Regards,
 4. Answer the Analysis Question
 
 ## Key Insights Gained in this Project  ##
-**1. Create a Database** - using SQL server, I created a database called "bike_data".
+**1. Create a Database** - using SQL server, I created a database called "bike_data". <br>
 ![Create Database](pictures/database_bike_data.png) <br>
 **2. Develop SQL Queries** - In this part, I removed unnecessary columns that were not needed for data analysis and created new columns for relevant data, such as revenue and profit. <br>
-![SQL Query](pictures/sql_query_bike_data.png)
+![SQL Query](pictures/sql_query_bike_data.png) <br?
 **3. Connect PowerBI to DB and Load Table**  - Connect the database to PowerBI. Click **Get Data*, and choose **SQL Server Database*. Then, input the required information of the database. <br>
-![Connect SQL query to PowerBi](pictures/sql_to_powerbi.png)
+![Connect SQL query to PowerBi](pictures/sql_to_powerbi.png) <br>
 **4. Use Relevant Visualization to Interpret Findings** - Using the Visualizations section of Power BI, I imported relevant charts to visualize trends in the datasets and customized their functionality and visual aesthetics to improve clarity and responsiveness. <br>
+![Visual_Chart](pictures/visual.png) <br>
+**5. Import Image and GIF** - I imported images and GIFs from the internet to make the dashboard more presentable. <br>
+**6. Transform Data** - To ensure the accuracy of the findings in my charts, I transformed the data types in my dataset to their corresponding formats, such as converting **Text** fields to **Date**. <br>
+![transform_data](pictures/transform_data.png) <br>
+**7. Recommend Insights for Decesion Making** <br>
+
+## Charts Used in these Dashboard
+1. Matrix
+2. Clustered Bar Chart
+3. Donut Chart
+4. Line and Clustered Column Chart
+5. Card
+<br>
+
+## Reference
+Youtube Video from [Absent Data](https://youtu.be/jdGJWloo-OU?si=MjGqZFW3PPbtpz8i) <br>
+GiF and image from [Flaticon](https://www.flaticon.com/)
+
 
 
 
