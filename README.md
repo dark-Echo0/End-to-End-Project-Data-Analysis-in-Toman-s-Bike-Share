@@ -1,4 +1,4 @@
-# End-to-End-Project-Data-Analysis-in-Toman-s-Bike-Share
+# End-to-End-Project-Data-Analysis-of-Toman-s-Bike-Share
 These project was performed based on the YT Page Turorial by Absent Data that uses a fictional data set.
 ## Scenario
 ### An Email rRequest for Development of Toman Bike Share Dashboard###
